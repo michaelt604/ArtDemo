@@ -6,4 +6,8 @@
 
 ## Boids
  Recreated and expanded on a classic boids simulation allowing for multiple classes (the same type of boid only flock with eachother)
- Note: Doesn't work from the main menu, manually need to adjust the scene from the inspector
+
+### Running
+ Open the ArtTest folder within Unity, the main menu is the first page
+  The interconnected button is used to see the interconnected demo
+  The boids demo needs to be opened in the scene manually as the button isn't configured yet
