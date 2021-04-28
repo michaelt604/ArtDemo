@@ -6,3 +6,4 @@
 
 ## Boids
  Recreated and expanded on a classic boids simulation allowing for multiple classes (the same type of boid only flock with eachother)
+ Note: Doesn't work from the main menu, manually need to adjust the scene from the inspector
