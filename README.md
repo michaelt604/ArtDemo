@@ -1,5 +1,5 @@
 # ArtDemo
- Two interesting simulations designed to be visually stimulating
+ Two visual simulations "interconnected" and "boids" each with their own unqiue feeling and customizations
  
 ## Interconnected
  Creating random dynamic visual graphs with random node and velocity position connected with coloured edges with multiple themes and starting configuarations
