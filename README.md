@@ -9,5 +9,5 @@
 
 ## Running
  Open the ArtTest folder within Unity, the main menu is the first page
-  ### The interconnected button is used to see the interconnected demo
-  ### The boids demo needs to be opened in the scene manually as the button isn't configured yet
+  1. The interconnected button is used to see the interconnected demo
+  2. The boids demo needs to be opened in the scene manually as the button isn't configured yet
